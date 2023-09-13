@@ -4,8 +4,8 @@
   "description": "api to test tower of hanoi solutions",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Andy Bartkiv",
   "license": "ISC",
